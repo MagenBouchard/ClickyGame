@@ -8,5 +8,7 @@ The user must click on the puppies only once. If they click twice they will have
 
 
 # Technologies Used
-  Reactjs
-  Bootstrap
+    Reactjs
+    Bootstrap
+    JSX
+    
