@@ -1,6 +1,6 @@
 # Clicky Game
 
-This application is created via ReactJS. 
+This application is created via ReactJS, bootstrap, and JSX. 
 
 
 ## How to play
