@@ -2,7 +2,7 @@ import React from 'react';
 import './gameover.css';
 
 const GameOver = (props) => {
-  if (props.score >= 12) {
+  if (props.score >= 8) {
     return(
       <div>
         <h1 className="text-center">Great Job you won!</h1>
